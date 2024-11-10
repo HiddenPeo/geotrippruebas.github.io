@@ -1,0 +1,28 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "La Parrilla de Don Humberto",
+          "description": "Libertador Bernardo O'Higgins 560 La Serena, 1700000 Coquimbo"
+        },
+        "geometry": {
+          "coordinates": [-71.24852491929539, -29.903849444866818],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Boulevard Terraza La Serena",
+          "description": "Cienfuegos 581, 1710114 La Serena, Coquimbo"
+        },
+        "geometry": {
+          "coordinates": [-71.24773636380777, -29.904153550144418],
+          "type": "Point"
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+  

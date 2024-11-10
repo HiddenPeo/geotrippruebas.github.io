@@ -1,0 +1,39 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "El Faro La Serena",
+          "description": "Avda. Fco de Aguirre, La Serena, Coquimbo"
+        },
+        "geometry": {
+          "coordinates": [-71.2743263707903, -29.905611297420116],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Museo al Aire Libre de la Avenida Francisco de Aguirre",
+          "description": "Avda. Fco de Aguirre 220, La Serena, Coquimbo"
+        },
+        "geometry": {
+          "coordinates": [-71.25405191774472, -29.905757439038528],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Estadio La Serena",
+          "description": "Avda. Fco de Aguirre 220, La Serena, Coquimbo"
+        },
+        "geometry": {
+          "coordinates": [-71.25182174470017, -29.911030706282954],
+          "type": "Point"
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+  
